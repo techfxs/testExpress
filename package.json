@@ -1,0 +1,21 @@
+{
+    "name": "mz-appController",    
+    "version": "0.0.1",
+    "description": "Maps master column titles to partner column fields",    
+    "main": "angular-drag-and-drop-lists.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "async": "^1.5.0",
+        "bcrypt-nodejs": "0.0.3",
+        "body-parser": "~1.0.0",
+        "bookshelf": "0.5",
+        "connect-flash": "0.1.1",
+        "cookie-parser": "~1.0.0",
+        "ejs": "^2.3.1",
+        "express": "^4.12.4",
+        "express-session": "~1.0.0",
+        "express4-handlebars": "~0.2.0"
+  }
+}
