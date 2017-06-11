@@ -1,8 +1,8 @@
 {
-    "name": "mz-appController",    
+    "name": "TestExpress",    
     "version": "0.0.1",
-    "description": "Maps master column titles to partner column fields",    
-    "main": "angular-drag-and-drop-lists.js",
+    "description": "Express test application",    
+    "main": "index.js",
     "scripts": {
         "start": "node app.js"
     },
